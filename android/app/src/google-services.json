@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6263081636",
+    "project_id": "alist-app-ff63a",
+    "storage_bucket": "alist-app-ff63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6263081636:android:28a68cedc1e5dff2da7431",
+        "android_client_info": {
+          "package_name": "com.sataware.alist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7g4TjC-_JwmPn3wLqRnjRGiLVJyyy3Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

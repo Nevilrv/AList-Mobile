@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "6263081636",
+    "project_id": "alist-app-ff63a",
+    "storage_bucket": "alist-app-ff63a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6263081636:android:28a68cedc1e5dff2da7431",
+        "android_client_info": {
+          "package_name": "com.sataware.alist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6263081636-3evq2ssmopq976o654p1gh1pfkrmvs8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.alist",
+            "certificate_hash": "015e25b7a4b91590d85c7068a0dee48088615d28"
+          }
+        },
+        {
+          "client_id": "6263081636-t7j8hpuj50rq15kasjddb6113hb43gq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sataware.alist",
+            "certificate_hash": "71f81fc2b8ae741f3ab41ef931d5d2c69c5798e9"
+          }
+        },
+        {
+          "client_id": "6263081636-ipqkl0hbe6f8lo5ahencq6n90eia6nd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7g4TjC-_JwmPn3wLqRnjRGiLVJyyy3Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6263081636-ipqkl0hbe6f8lo5ahencq6n90eia6nd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6263081636-m808pl0jd532ciuv7h8a2100cjeopvfh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sataware.alist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
